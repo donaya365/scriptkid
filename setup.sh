@@ -229,25 +229,25 @@ fi
 sleep 3
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-donaya365="raw.githubusercontent.com/donaya365/ssh"
+donaya365="raw.githubusercontent.com/donaya365/scriptkid/ssh"
 # Link Hosting Kalian Untuk Sstp
-donaya365n="raw.githubusercontent.com/donaya365/sstp"
+donaya365n="raw.githubusercontent.com/donaya365/scriptkid/sstp"
 # Link Hosting Kalian Untuk Ssr
-donaya365nn="raw.githubusercontent.com/donaya365/ssr"
+donaya365nn="raw.githubusercontent.com/donaya365/scriptkid/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-donaya365nnn="raw.githubusercontent.com/donaya365/shadowsocks"
+donaya365nnn="raw.githubusercontent.com/donaya365/scriptkid/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-donaya365nnnn="raw.githubusercontent.com/donaya365/wireguard"
+donaya365nnnn="raw.githubusercontent.com/donaya365/scriptkid/wireguard"
 # Link Hosting Kalian Untuk Xray
-donaya365nnnnn="raw.githubusercontent.com/donaya365/xray"
+donaya365nnnnn="raw.githubusercontent.com/donaya365/scriptkid/xray"
 # Link Hosting Kalian Untuk Ipsec
-donaya365nnnnnn="raw.githubusercontent.com/donaya365/ipsec"
+donaya365nnnnnn="raw.githubusercontent.com/donaya365/scriptkid/ipsec"
 # Link Hosting Kalian Untuk Backup
-donaya365nnnnnnn="raw.githubusercontent.com/donaya365/backup"
+donaya365nnnnnnn="raw.githubusercontent.com/donaya365/scriptkid/backup"
 # Link Hosting Kalian Untuk Websocket
-donaya365nnnnnnnn="raw.githubusercontent.com/donaya365/websocket"
+donaya365nnnnnnnn="raw.githubusercontent.com/donaya365/scriptkid/websocket"
 # Link Hosting Kalian Untuk Ohp
-donaya365nnnnnnnnn="raw.githubusercontent.com/donaya365/ohp"
+donaya365nnnnnnnnn="raw.githubusercontent.com/donaya365/scriptkid/ohp"
 #######################################################
 clear
 if [ -f "/etc/xray/domain" ]; then
