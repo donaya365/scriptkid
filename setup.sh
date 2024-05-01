@@ -254,8 +254,8 @@ if [ -f "/etc/xray/domain" ]; then
 echo "Script Already Installed"
 exit 0
 fi
-mkdir /var/lib/donaya365store;
-echo "IP=" >> /var/lib/donaya365store/ipvps.conf
+mkdir /var/lib/donaya365;
+echo "IP=" >> /var/lib/donaya365/ipvps.conf
 curl -sS https://raw.githubusercontent.com/donaya365/perizinan/main/ascii-home | lolcat
 sleep 2
 echo""
